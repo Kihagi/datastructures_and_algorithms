@@ -3,6 +3,15 @@
  */
 public class MaxSubArraySlidingWindow {
 
+    /*
+    - Given an array of integers of size 'n', our aim is to calculate the maximum sum of 'k' consecutive
+    elements in the array.
+
+    Example:
+       Input: arr[] = {100, 200, 300, 400}, k = 2
+       Output: 700
+     */
+
     public static void main(String[] args) {
         int arr[] = {1, 4, 2, 10, 2, 3, 1, 0, 50};
         int k = 4;
