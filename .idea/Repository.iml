@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Array/SlidingWindow/MaximumSubarrayBruteForce" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/SlidingWindow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/TwoPointer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
